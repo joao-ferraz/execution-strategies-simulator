@@ -1,0 +1,666 @@
+[
+  {
+    "ticker": "^BVSP",
+    "avg_volume": 7712870.0,
+    "avg_price": 144203.83333333334,
+    "liquidity": 1112454247860.0,
+    "percentile": 100.0,
+    "level": 10
+  },
+  {
+    "ticker": "VALE3.SA",
+    "avg_volume": 19964680.0,
+    "avg_price": 59.04366658528646,
+    "liquidity": 1179483185.1679866,
+    "percentile": 98.79518072289156,
+    "level": 10
+  },
+  {
+    "ticker": "PETR4.SA",
+    "avg_volume": 29723903.333333332,
+    "avg_price": 30.835666592915853,
+    "liquidity": 916729872.2445234,
+    "percentile": 97.59036144578313,
+    "level": 10
+  },
+  {
+    "ticker": "ITUB4.SA",
+    "avg_volume": 17531840.0,
+    "avg_price": 38.04069163004557,
+    "liquidity": 667733941.4309692,
+    "percentile": 96.3855421686747,
+    "level": 10
+  },
+  {
+    "ticker": "BBAS3.SA",
+    "avg_volume": 29044940.0,
+    "avg_price": 21.347000312805175,
+    "liquidity": 621594826.2190756,
+    "percentile": 95.18072289156626,
+    "level": 10
+  },
+  {
+    "ticker": "BBDC4.SA",
+    "avg_volume": 28397030.0,
+    "avg_price": 17.32794755299886,
+    "liquidity": 491375547.3819478,
+    "percentile": 93.97590361445783,
+    "level": 10
+  },
+  {
+    "ticker": "ELET3.SA",
+    "avg_volume": 8531243.333333334,
+    "avg_price": 51.87566668192546,
+    "liquidity": 442429047.202123,
+    "percentile": 92.7710843373494,
+    "level": 10
+  },
+  {
+    "ticker": "B3SA3.SA",
+    "avg_volume": 31176233.333333332,
+    "avg_price": 12.919454065958659,
+    "liquidity": 404062429.08626556,
+    "percentile": 91.56626506024097,
+    "level": 10
+  },
+  {
+    "ticker": "SBSP3.SA",
+    "avg_volume": 3127923.3333333335,
+    "avg_price": 128.31699829101564,
+    "liquidity": 401838152.9290517,
+    "percentile": 90.36144578313254,
+    "level": 10
+  },
+  {
+    "ticker": "EMBR3.SA",
+    "avg_volume": 4886316.666666667,
+    "avg_price": 79.59666646321615,
+    "liquidity": 389404899.21872455,
+    "percentile": 89.1566265060241,
+    "level": 9
+  },
+  {
+    "ticker": "WEGE3.SA",
+    "avg_volume": 10062033.333333334,
+    "avg_price": 37.35392659505208,
+    "liquidity": 380578924.54451245,
+    "percentile": 87.95180722891565,
+    "level": 9
+  },
+  {
+    "ticker": "BPAC11.SA",
+    "avg_volume": 7497490.0,
+    "avg_price": 47.19133364359538,
+    "liquidity": 352993809.64734393,
+    "percentile": 86.74698795180723,
+    "level": 9
+  },
+  {
+    "ticker": "PETR3.SA",
+    "avg_volume": 10543390.0,
+    "avg_price": 33.13099994659424,
+    "liquidity": 349084871.6897011,
+    "percentile": 85.54216867469879,
+    "level": 9
+  },
+  {
+    "ticker": "ABEV3.SA",
+    "avg_volume": 25802046.666666668,
+    "avg_price": 12.196000003814698,
+    "liquidity": 315620050.2365176,
+    "percentile": 84.33734939759037,
+    "level": 9
+  },
+  {
+    "ticker": "EQTL3.SA",
+    "avg_volume": 8568186.666666666,
+    "avg_price": 36.31366678873698,
+    "liquidity": 309003595.4523595,
+    "percentile": 83.13253012048193,
+    "level": 9
+  },
+  {
+    "ticker": "RENT3.SA",
+    "avg_volume": 7717843.333333333,
+    "avg_price": 38.17339235941569,
+    "liquidity": 296752316.36594135,
+    "percentile": 81.92771084337349,
+    "level": 9
+  },
+  {
+    "ticker": "MBRF3.SA",
+    "avg_volume": 14670623.333333334,
+    "avg_price": 18.84733330408732,
+    "liquidity": 282127516.58087415,
+    "percentile": 80.72289156626506,
+    "level": 9
+  },
+  {
+    "ticker": "PRIO3.SA",
+    "avg_volume": 7589320.0,
+    "avg_price": 37.38200022379557,
+    "liquidity": 281170043.40596515,
+    "percentile": 79.51807228915662,
+    "level": 8
+  },
+  {
+    "ticker": "VBBR3.SA",
+    "avg_volume": 10878803.333333334,
+    "avg_price": 23.86266657511393,
+    "liquidity": 258980947.6406161,
+    "percentile": 78.3132530120482,
+    "level": 8
+  },
+  {
+    "ticker": "MGLU3.SA",
+    "avg_volume": 26437343.333333332,
+    "avg_price": 9.55733331044515,
+    "liquidity": 254691674.37369666,
+    "percentile": 77.10843373493977,
+    "level": 8
+  },
+  {
+    "ticker": "LREN3.SA",
+    "avg_volume": 16407653.333333334,
+    "avg_price": 15.052827803293864,
+    "liquidity": 247284366.14863715,
+    "percentile": 75.90361445783132,
+    "level": 8
+  },
+  {
+    "ticker": "SUZB3.SA",
+    "avg_volume": 4926203.333333333,
+    "avg_price": 49.19099998474121,
+    "liquidity": 242486187.77748108,
+    "percentile": 74.69879518072288,
+    "level": 8
+  },
+  {
+    "ticker": "RAIL3.SA",
+    "avg_volume": 15535136.666666666,
+    "avg_price": 15.40033318201701,
+    "liquidity": 239754756.02571487,
+    "percentile": 73.49397590361446,
+    "level": 8
+  },
+  {
+    "ticker": "ITSA4.SA",
+    "avg_volume": 21076576.666666668,
+    "avg_price": 11.200999959309895,
+    "liquidity": 236075626.78777695,
+    "percentile": 72.28915662650603,
+    "level": 8
+  },
+  {
+    "ticker": "CSAN3.SA",
+    "avg_volume": 32936800.0,
+    "avg_price": 6.324333270390828,
+    "liquidity": 212355746.21205965,
+    "percentile": 71.08433734939759,
+    "level": 8
+  },
+  {
+    "ticker": "ENEV3.SA",
+    "avg_volume": 11741533.333333334,
+    "avg_price": 16.506000137329103,
+    "liquidity": 192095333.3074824,
+    "percentile": 69.87951807228916,
+    "level": 7
+  },
+  {
+    "ticker": "ASAI3.SA",
+    "avg_volume": 20825886.666666668,
+    "avg_price": 9.050333277384441,
+    "liquidity": 186460626.22114182,
+    "percentile": 68.67469879518072,
+    "level": 7
+  },
+  {
+    "ticker": "RDOR3.SA",
+    "avg_volume": 4458683.333333333,
+    "avg_price": 41.09720916748047,
+    "liquidity": 182532590.58581033,
+    "percentile": 67.46987951807229,
+    "level": 7
+  },
+  {
+    "ticker": "RADL3.SA",
+    "avg_volume": 9494223.333333334,
+    "avg_price": 18.567282168070474,
+    "liquidity": 176363018.2776769,
+    "percentile": 66.26506024096386,
+    "level": 7
+  },
+  {
+    "ticker": "GGBR4.SA",
+    "avg_volume": 9597326.666666666,
+    "avg_price": 17.315333493550618,
+    "liquidity": 166714500.04675546,
+    "percentile": 65.06024096385542,
+    "level": 7
+  },
+  {
+    "ticker": "UGPA3.SA",
+    "avg_volume": 7669013.333333333,
+    "avg_price": 21.132666651407877,
+    "liquidity": 162199012.55556107,
+    "percentile": 63.85542168674698,
+    "level": 7
+  },
+  {
+    "ticker": "BBSE3.SA",
+    "avg_volume": 4916530.0,
+    "avg_price": 32.577999687194826,
+    "liquidity": 160625988.7782669,
+    "percentile": 62.65060240963856,
+    "level": 7
+  },
+  {
+    "ticker": "BRAV3.SA",
+    "avg_volume": 9123530.0,
+    "avg_price": 17.00233335494995,
+    "liquidity": 150276835.84446272,
+    "percentile": 61.44578313253012,
+    "level": 7
+  },
+  {
+    "ticker": "CYRE3.SA",
+    "avg_volume": 4736750.0,
+    "avg_price": 29.938000106811522,
+    "liquidity": 141857275.95600128,
+    "percentile": 60.24096385542169,
+    "level": 6
+  },
+  {
+    "ticker": "TIMS3.SA",
+    "avg_volume": 5984766.666666667,
+    "avg_price": 23.115772120157878,
+    "liquidity": 138369279.3661944,
+    "percentile": 59.036144578313255,
+    "level": 6
+  },
+  {
+    "ticker": "HAPV3.SA",
+    "avg_volume": 3836826.6666666665,
+    "avg_price": 35.468666585286456,
+    "liquidity": 137206936.47834778,
+    "percentile": 57.831325301204814,
+    "level": 6
+  },
+  {
+    "ticker": "CPLE6.SA",
+    "avg_volume": 10484380.0,
+    "avg_price": 12.806333351135255,
+    "liquidity": 134102461.26632373,
+    "percentile": 56.62650602409639,
+    "level": 6
+  },
+  {
+    "ticker": "MOTV3.SA",
+    "avg_volume": 8319470.0,
+    "avg_price": 14.627333291371663,
+    "liquidity": 121581170.76762517,
+    "percentile": 55.42168674698795,
+    "level": 6
+  },
+  {
+    "ticker": "VIVT3.SA",
+    "avg_volume": 3501793.3333333335,
+    "avg_price": 33.13859545389811,
+    "liquidity": 115934186.57848358,
+    "percentile": 54.21686746987952,
+    "level": 6
+  },
+  {
+    "ticker": "TOTS3.SA",
+    "avg_volume": 2611580.0,
+    "avg_price": 43.749477513631184,
+    "liquidity": 113780854.05489604,
+    "percentile": 53.01204819277109,
+    "level": 6
+  },
+  {
+    "ticker": "NATU3.SA",
+    "avg_volume": 12494460.0,
+    "avg_price": 8.828333314259847,
+    "liquidity": 112900849.21152432,
+    "percentile": 51.80722891566265,
+    "level": 6
+  },
+  {
+    "ticker": "ENGI11.SA",
+    "avg_volume": 2142540.0,
+    "avg_price": 49.85500005086263,
+    "liquidity": 106608074.80541229,
+    "percentile": 50.602409638554214,
+    "level": 5
+  },
+  {
+    "ticker": "KLBN11.SA",
+    "avg_volume": 5785086.666666667,
+    "avg_price": 17.88500016530355,
+    "liquidity": 103382366.71620052,
+    "percentile": 49.39759036144578,
+    "level": 5
+  },
+  {
+    "ticker": "CMIG4.SA",
+    "avg_volume": 9208890.0,
+    "avg_price": 10.877777767181396,
+    "liquidity": 100227611.16496722,
+    "percentile": 48.19277108433735,
+    "level": 5
+  },
+  {
+    "ticker": "BBDC3.SA",
+    "avg_volume": 6540913.333333333,
+    "avg_price": 14.816188303629557,
+    "liquidity": 97206286.06044133,
+    "percentile": 46.98795180722892,
+    "level": 5
+  },
+  {
+    "ticker": "MULT3.SA",
+    "avg_volume": 3378120.0,
+    "avg_price": 28.026287269592284,
+    "liquidity": 94806903.14254124,
+    "percentile": 45.78313253012048,
+    "level": 5
+  },
+  {
+    "ticker": "PSSA3.SA",
+    "avg_volume": 1831503.3333333333,
+    "avg_price": 48.25260327657064,
+    "liquidity": 88079269.1040802,
+    "percentile": 44.57831325301205,
+    "level": 5
+  },
+  {
+    "ticker": "POMO4.SA",
+    "avg_volume": 9859753.333333334,
+    "avg_price": 8.94366668065389,
+    "liquidity": 87647068.95472844,
+    "percentile": 43.373493975903614,
+    "level": 5
+  },
+  {
+    "ticker": "COGN3.SA",
+    "avg_volume": 27634210.0,
+    "avg_price": 3.1730000019073485,
+    "liquidity": 87257345.9017396,
+    "percentile": 42.168674698795186,
+    "level": 5
+  },
+  {
+    "ticker": "SMFT3.SA",
+    "avg_volume": 3296370.0,
+    "avg_price": 25.544666735331216,
+    "liquidity": 84099208.052845,
+    "percentile": 40.963855421686745,
+    "level": 5
+  },
+  {
+    "ticker": "ELET6.SA",
+    "avg_volume": 1480016.6666666667,
+    "avg_price": 54.7493335723877,
+    "liquidity": 80487044.47746277,
+    "percentile": 39.75903614457831,
+    "level": 4
+  },
+  {
+    "ticker": "SANB11.SA",
+    "avg_volume": 2866726.6666666665,
+    "avg_price": 28.169411595662435,
+    "liquidity": 80393676.73586528,
+    "percentile": 38.55421686746988,
+    "level": 4
+  },
+  {
+    "ticker": "VIVA3.SA",
+    "avg_volume": 2779403.3333333335,
+    "avg_price": 28.59733339945475,
+    "liquidity": 79619303.57421875,
+    "percentile": 37.34939759036144,
+    "level": 4
+  },
+  {
+    "ticker": "ALOS3.SA",
+    "avg_volume": 3131510.0,
+    "avg_price": 24.676549593607586,
+    "liquidity": 77387050.20889919,
+    "percentile": 36.144578313253014,
+    "level": 4
+  },
+  {
+    "ticker": "AZZA3.SA",
+    "avg_volume": 2593400.0,
+    "avg_price": 28.39366683959961,
+    "liquidity": 71541079.57033794,
+    "percentile": 34.93975903614458,
+    "level": 4
+  },
+  {
+    "ticker": "USIM5.SA",
+    "avg_volume": 14359256.666666666,
+    "avg_price": 4.563000011444092,
+    "liquidity": 66690690.67347368,
+    "percentile": 33.734939759036145,
+    "level": 4
+  },
+  {
+    "ticker": "CSNA3.SA",
+    "avg_volume": 8010013.333333333,
+    "avg_price": 8.25666659673055,
+    "liquidity": 66330658.5657533,
+    "percentile": 32.53012048192771,
+    "level": 4
+  },
+  {
+    "ticker": "DIRR3.SA",
+    "avg_volume": 4315386.666666667,
+    "avg_price": 15.473666636149089,
+    "liquidity": 66296606.056842804,
+    "percentile": 31.32530120481928,
+    "level": 4
+  },
+  {
+    "ticker": "CURY3.SA",
+    "avg_volume": 2063296.6666666667,
+    "avg_price": 32.33154582977295,
+    "liquidity": 66266963.15858841,
+    "percentile": 30.120481927710845,
+    "level": 3
+  },
+  {
+    "ticker": "FLRY3.SA",
+    "avg_volume": 4056066.6666666665,
+    "avg_price": 15.572999858856202,
+    "liquidity": 62209209.3429629,
+    "percentile": 28.915662650602407,
+    "level": 3
+  },
+  {
+    "ticker": "BEEF3.SA",
+    "avg_volume": 9267093.333333334,
+    "avg_price": 6.641333309809367,
+    "liquidity": 61813856.47550424,
+    "percentile": 27.710843373493976,
+    "level": 3
+  },
+  {
+    "ticker": "ISAE4.SA",
+    "avg_volume": 2532656.6666666665,
+    "avg_price": 24.13400026957194,
+    "liquidity": 61556589.15667216,
+    "percentile": 26.506024096385545,
+    "level": 3
+  },
+  {
+    "ticker": "TAEE11.SA",
+    "avg_volume": 1666456.6666666667,
+    "avg_price": 36.18966687520345,
+    "liquidity": 60327962.470448814,
+    "percentile": 25.301204819277107,
+    "level": 3
+  },
+  {
+    "ticker": "CXSE3.SA",
+    "avg_volume": 4044740.0,
+    "avg_price": 14.735333347320557,
+    "liquidity": 59545886.3352712,
+    "percentile": 24.096385542168676,
+    "level": 3
+  },
+  {
+    "ticker": "MRVE3.SA",
+    "avg_volume": 8453233.333333334,
+    "avg_price": 7.062666622797648,
+    "liquidity": 59054492.918195724,
+    "percentile": 22.89156626506024,
+    "level": 3
+  },
+  {
+    "ticker": "CEAB3.SA",
+    "avg_volume": 3498383.3333333335,
+    "avg_price": 16.600333340962727,
+    "liquidity": 58006824.57847913,
+    "percentile": 21.686746987951807,
+    "level": 3
+  },
+  {
+    "ticker": "GOAU4.SA",
+    "avg_volume": 5789483.333333333,
+    "avg_price": 9.942333475748699,
+    "liquidity": 57607821.52629217,
+    "percentile": 20.481927710843372,
+    "level": 2
+  },
+  {
+    "ticker": "EGIE3.SA",
+    "avg_volume": 1377193.3333333333,
+    "avg_price": 40.3793337504069,
+    "liquidity": 55523247.27308909,
+    "percentile": 19.27710843373494,
+    "level": 2
+  },
+  {
+    "ticker": "HYPE3.SA",
+    "avg_volume": 2471300.0,
+    "avg_price": 22.515750122070312,
+    "liquidity": 55151052.28911718,
+    "percentile": 18.072289156626507,
+    "level": 2
+  },
+  {
+    "ticker": "VAMO3.SA",
+    "avg_volume": 15959106.666666666,
+    "avg_price": 3.3576666911443076,
+    "liquidity": 54190373.623559475,
+    "percentile": 16.867469879518072,
+    "level": 2
+  },
+  {
+    "ticker": "CPFE3.SA",
+    "avg_volume": 1337896.6666666667,
+    "avg_price": 39.02933336893717,
+    "liquidity": 52260111.49674734,
+    "percentile": 15.66265060240964,
+    "level": 2
+  },
+  {
+    "ticker": "AURE3.SA",
+    "avg_volume": 4611623.333333333,
+    "avg_price": 10.677000013987223,
+    "liquidity": 49183557.41376559,
+    "percentile": 14.457831325301203,
+    "level": 2
+  },
+  {
+    "ticker": "PCAR3.SA",
+    "avg_volume": 12069003.333333334,
+    "avg_price": 3.9540000041325887,
+    "liquidity": 47920872.07075516,
+    "percentile": 13.253012048192772,
+    "level": 2
+  },
+  {
+    "ticker": "IGTI11.SA",
+    "avg_volume": 1975606.6666666667,
+    "avg_price": 23.812333234151204,
+    "liquidity": 47111777.187633514,
+    "percentile": 12.048192771084338,
+    "level": 2
+  },
+  {
+    "ticker": "YDUQ3.SA",
+    "avg_volume": 3639013.3333333335,
+    "avg_price": 12.728666718800863,
+    "liquidity": 46007874.13509051,
+    "percentile": 10.843373493975903,
+    "level": 1
+  },
+  {
+    "ticker": "BRAP4.SA",
+    "avg_volume": 2019193.3333333333,
+    "avg_price": 17.196333122253417,
+    "liquidity": 34661219.59229151,
+    "percentile": 9.63855421686747,
+    "level": 1
+  },
+  {
+    "ticker": "BRKM5.SA",
+    "avg_volume": 4648720.0,
+    "avg_price": 7.219999996821086,
+    "liquidity": 32675237.103743553,
+    "percentile": 8.433734939759036,
+    "level": 1
+  },
+  {
+    "ticker": "IRBR3.SA",
+    "avg_volume": 632196.6666666666,
+    "avg_price": 47.48900032043457,
+    "liquidity": 30020761.172281902,
+    "percentile": 7.228915662650602,
+    "level": 1
+  },
+  {
+    "ticker": "RAIZ4.SA",
+    "avg_volume": 28341886.666666668,
+    "avg_price": 1.0276666641235352,
+    "liquidity": 29380503.78654341,
+    "percentile": 6.024096385542169,
+    "level": 1
+  },
+  {
+    "ticker": "SLCE3.SA",
+    "avg_volume": 1690306.6666666667,
+    "avg_price": 16.1943333307902,
+    "liquidity": 27330991.318740845,
+    "percentile": 4.819277108433735,
+    "level": 1
+  },
+  {
+    "ticker": "RECV3.SA",
+    "avg_volume": 2160833.3333333335,
+    "avg_price": 12.596333312988282,
+    "liquidity": 27051291.341781616,
+    "percentile": 3.614457831325301,
+    "level": 1
+  },
+  {
+    "ticker": "CMIN3.SA",
+    "avg_volume": 4579890.0,
+    "avg_price": 5.51766668955485,
+    "liquidity": 25328693.75594298,
+    "percentile": 2.4096385542168677,
+    "level": 1
+  },
+  {
+    "ticker": "CVCB3.SA",
+    "avg_volume": 9659080.0,
+    "avg_price": 1.850333325068156,
+    "liquidity": 18160764.52858885,
+    "percentile": 1.2048192771084338,
+    "level": 1
+  }
+]

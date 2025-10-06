@@ -1,0 +1,19 @@
+{
+  "num_tickers": 4,
+  "selected_tickers": [
+    "^BVSP",
+    "BRAP4.SA",
+    "ENGI11.SA",
+    "SBSP3.SA"
+  ],
+  "num_days": 1,
+  "tick_config": {
+    "ticks_per_min": 120,
+    "spread_mean": 0.0015,
+    "spread_vol": 0.0003,
+    "vol_noise": 0.4,
+    "trend_weight": 0.6,
+    "seed": 42
+  },
+  "last_updated": "2025-10-25T17:06:52.205911"
+}
